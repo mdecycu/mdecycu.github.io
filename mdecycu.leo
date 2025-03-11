@@ -150,7 +150,7 @@ make.start()</t>
             &lt;script type="text/template"&gt;
         ## 2025 Spring
 
-        ### [wcm2025](https://mde.tw/wcm2025) | [cd2025](https://mde.tw/cd2025)
+        ### [wcm2025](https://mde.tw/wcm2025) - [wcmhw](https://mdewcm2025.github.io/hw-scrum-1) | [cd2025](https://mde.tw/cd2025) - [cdhw](https://mdecd2025.github.io/hw-scrum-1)
             &lt;/script&gt;
         &lt;/section&gt;
 </t>
