@@ -17,7 +17,7 @@
 <v t="leo.20230614114908.4"><vh>body</vh>
 <v t="leo.20230614114908.5"><vh>reveal div</vh>
 <v t="leo.20230614114908.6"><vh>slides div</vh>
-<v t="leo.20230614115035.1"><vh>2025 Spring Page</vh></v>
+<v t="leo.20230614115035.1"><vh>2025 Fall Page</vh></v>
 </v>
 </v>
 </v>
@@ -148,9 +148,9 @@ make.start()</t>
 </t>
 <t tx="leo.20230614115035.1">        &lt;section data-markdown&gt;
             &lt;script type="text/template"&gt;
-        ## 2025 Spring
+        ## 2025 Fall
 
-        ### [wcm2025](https://mde.tw/wcm2025) - [wcmhw](https://mdewcm2025.github.io/hw-scrum-1) | [cd2025](https://mde.tw/cd2025) - [cdhw](https://mdecd2025.github.io/hw-scrum-1)
+        ### [cp2025](https://mde.tw/cp2025) | [cad2025](https://mde.tw/cad2025)
             &lt;/script&gt;
         &lt;/section&gt;
 </t>
